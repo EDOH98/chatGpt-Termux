@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace 'YOUR_API_KEY' with your OpenAI API key
-api_key = 'YOUR_API_KEY'
+api_key = ''
 
 # Define the API endpoint and headers
 api_endpoint = 'https://api.openai.com/v1/chat/completions'
